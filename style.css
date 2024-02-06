@@ -14,7 +14,7 @@ body {
   padding-bottom: 2cm;
   height: 5mm;
  }
-
+/* topmenu */
 .topmenu {
   color: lightgray;
   margin: 10px;
@@ -34,7 +34,7 @@ body {
   float: right;
   padding-right: 1cm;
 }
-
+/* profile name */
 .profile_name {
   float: left;
   padding-left: 2cm;
